@@ -22,17 +22,17 @@ To run this project locally, follow these steps:
    cd california-house-price-prediction
 python -m venv venv
 
-##2.Create and activate a virtual environment:
+## 2.Create and activate a virtual environment:
 venv\Scripts\activate
 
-##3.Install the dependencies:
+## 3.Install the dependencies:
 pip install -r requirements.txt
 
-##4.Usage
+## 4.Usage
 To start the Flask web application, run:
 python app.py
 
-##5.Project Structure
+## 5.Project Structure
 california-house-price-prediction/
 │
 ├── venv/                    # Virtual environment directory
@@ -47,7 +47,10 @@ california-house-price-prediction/
 ├── requirements.txt         # Project dependencies
 
 
-##6.Features:
+## 6.Features:
 Predict house prices based on user input features.
 Simple and user-friendly web interface built with Flask.
 Model trained on the California housing dataset.
+
+## 7.Deployment LInk:
+https://california-house-price-3.onrender.com/
